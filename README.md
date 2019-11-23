@@ -1,3 +1,3 @@
 # SMT201-G2T13
-A module about Geographic Information Systems for Urban Planning where we utilize GIS software to conduct various forms of geographic data analysis. <br><br>
-This project is about us finding the optimal trade area delineations for our client (an international F&B franchise) that can best explain their sales data performance and the respective trade area delineation web maps can be found here.
+A module about Geographic Information Systems for Urban Planning where we utilize GIS software (an open source software called QGIS in this case) to conduct various forms of geographical data analysis in differing contexts. <br><br>
+The main objective of our project for us to find the optimal trade area delineation for our client (an international F&B franchise) that can best explain their sales data performance. We explored a total of 5 different possible trade area delineations of which the number of Points of Interests (POIs) that each trade area covers differs. <br> The respective trade area delineation web maps can be found here, without needing to download QGIS to view.
